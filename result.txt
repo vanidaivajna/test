@@ -1,0 +1,17 @@
+Based on the provided tax invoice, here are the key-value pairs extracted:
+
+- **Customer Name:** Nancy Drew
+- **Builder Name:** Building Home
+- **Site Address:** Lot 26, Karl Street, NSW, 20095
+- **Stage of Construction:** Slab stage
+- **Invoice Number:** 2001321
+- **Date:** 12/6/2024
+- **Reference:** 567890
+- **Subtotal:** Rs. 6,700
+- **GST:** Rs. 400
+- **Total:** Rs. 7,100
+- **Deposit:** Rs. 4,000
+- **Amount Paid:** Rs. 4,000
+- **Amount Due:** Rs. 3,100
+
+These are the key details found in the tax invoice.
